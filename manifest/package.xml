@@ -18,6 +18,65 @@
 		<name>CustomApplication</name>
 	</types>
 	<types>
+		<members>Account.Active__c</members>
+		<members>Account.CustomerPriority__c</members>
+		<members>Account.NumberofLocations__c</members>
+		<members>Account.SLAExpirationDate__c</members>
+		<members>Account.SLASerialNumber__c</members>
+		<members>Account.SLA__c</members>
+		<members>Account.UpsellOpportunity__c</members>
+		<members>Booking__c.End_Date__c</members>
+		<members>Booking__c.Propierty__c</members>
+		<members>Booking__c.Quantity_Night__c</members>
+		<members>Booking__c.Start_Date__c</members>
+		<members>Booking__c.Total_Price__c</members>
+		<members>Booking__c.Travelers__c</members>
+		<members>Booking__c.User_AirBnb__c</members>
+		<members>Case.EngineeringReqNumber__c</members>
+		<members>Case.PotentialLiability__c</members>
+		<members>Case.Product__c</members>
+		<members>Case.SLAViolation__c</members>
+		<members>Contact.Languages__c</members>
+		<members>Contact.Level__c</members>
+		<members>Favorite__c.Propierty__c</members>
+		<members>Favorite__c.User_AirBnb__c</members>
+		<members>Goal.OrigGoalId__c</members>
+		<members>Lead.CurrentGenerators__c</members>
+		<members>Lead.NumberofLocations__c</members>
+		<members>Lead.Primary__c</members>
+		<members>Lead.ProductInterest__c</members>
+		<members>Lead.SICCode__c</members>
+		<members>Metric.OrigMetricId__c</members>
+		<members>Opportunity.CurrentGenerators__c</members>
+		<members>Opportunity.DeliveryInstallationStatus__c</members>
+		<members>Opportunity.MainCompetitors__c</members>
+		<members>Opportunity.OrderNumber__c</members>
+		<members>Opportunity.TrackingNumber__c</members>
+		<members>Possible_Dates__c.End_Date__c</members>
+		<members>Possible_Dates__c.Property__c</members>
+		<members>Possible_Dates__c.Start_Date__c</members>
+		<members>Property__c.Adress_Position__c</members>
+		<members>Property__c.Adress__c</members>
+		<members>Property__c.Description__c</members>
+		<members>Property__c.Photos__c</members>
+		<members>Property__c.Possible_Dates__c</members>
+		<members>Property__c.Price_x_night__c</members>
+		<members>Property__c.Total_Bathrooms__c</members>
+		<members>Property__c.Total_Ocu__c</members>
+		<members>Property__c.Total_Rooms__c</members>
+		<members>Property__c.User_AirBnb__c</members>
+		<members>Review__c.Booking__c</members>
+		<members>Review__c.Description__c</members>
+		<members>Review__c.Points__c</members>
+		<members>Review__c.Propierty__c</members>
+		<members>User_AirBnb__c.Adress__c</members>
+		<members>User_AirBnb__c.Email__c</members>
+		<members>User_AirBnb__c.Last_Name__c</members>
+		<members>User_AirBnb__c.Phone__c</members>
+		<members>User_AirBnb__c.isOwner__c</members>
+		<name>CustomField</name>
+	</types>
+	<types>
 		<members>Booking__c</members>
 		<members>Favorite__c</members>
 		<members>Possible_Dates__c</members>
